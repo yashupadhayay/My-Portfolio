@@ -3,11 +3,6 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:focus { text-decoration: n18e; }
 a:hover, a:active { text-decoration: none; }
-*{
-    margin: 0px;
-    padding: 0px;
-   /* background-color: #f1efe7;*/
-}
 
 body {
     font-family: Airbnb Cereal App ;
